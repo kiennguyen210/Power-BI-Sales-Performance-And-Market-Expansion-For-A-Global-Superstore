@@ -51,6 +51,8 @@ By transforming complex global sales data (Revenue, Profit, Trends) into actiona
 
 👤 Sales and Marketing Leadership: Utilizes the dashboard to understand profit drivers, identify high-growth segments, and allocate marketing spend effectively to support profitable products and markets.
 
+---
+
 ## 2. 📂 Dataset Description & Data Structure
 
 ### 2.1. Data Source  
@@ -128,6 +130,8 @@ The dataset consists of three tables:
 
 <img width="1942" height="1189" alt="image" src="https://github.com/user-attachments/assets/9a5df353-e503-4738-8df5-7aa80d93c37b" />
 
+---
+
 ## 3. 🧠 Design Thinking Process
 
 ### 3.1. Empathize  
@@ -141,6 +145,8 @@ The dataset consists of three tables:
 ### 3.3. Ideate 
 
 <img width="1920" height="1080" alt="pic 1 3" src="https://github.com/user-attachments/assets/13cda2c1-8100-42bb-b394-32d4614f05bf" />
+
+---
 
 ## 4. 📊 Key Insights & Visualizations
 
@@ -229,6 +235,8 @@ This page defines the strategic product portfolio for focused investment.
   - The density of products in the Red Area (low profit/low revenue) is significant.
 
   - Action: Products in the Red Area must be reviewed for potential discontinuation or re-pricing to instantly boost the overall Profit Margin. They are tying up inventory and capital with little return.
+ 
+---
  
   ## 5. 🔎 Final Conclusion & Recommendations
 
